@@ -1,0 +1,28 @@
+{
+  "dialogConfig": {
+    "enabled": true,
+    "version": "2.0",
+    "mandatory": false,
+    "update_url": "https://t.me/kissimtechmodz",
+    "title": "Update Available!",
+    "message": "A new version of the app has been released. Please update now to take advantage of the new features. ",
+    "socialLinks": [
+      {
+        "name": "facebook",
+        "url": "https://t.me/kissimtechmodz"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/kissimtechmodz"
+      },
+      {
+        "name": "instagram",
+        "url": "https://t.me/kissimtechmodz"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://t.me/kissimtechmodz"
+      }
+    ]
+  }
+}
