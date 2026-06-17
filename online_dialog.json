@@ -1,6 +1,6 @@
 {
   "dialogConfig": {
-    "enabled": true,
+    "enabled": false,
     "version": "2.0",
     "mandatory": false,
     "update_url": "https://t.me/kissimtechmodz",
